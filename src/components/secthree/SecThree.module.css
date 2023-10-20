@@ -1,0 +1,20 @@
+.p{
+    font-size: 18px;
+}
+.title{
+    font-size: 32px;
+}
+.img{
+width: 542px;
+height: 440px;
+}
+.btn{
+    background-color: #d6eebe;
+    color: #272727;
+    padding: 8px 24px;
+    font-size: 18px;
+
+}
+.main{
+    margin-bottom: 100px;
+}

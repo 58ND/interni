@@ -1,0 +1,65 @@
+.pone{
+     color: red;
+}
+.mn{width: 860px;
+     height: 55px;
+     display: flex;
+     justify-content: center;
+
+}
+.btn{
+    width: 95px;
+    height: 35px;
+    border-radius: 5px;
+}
+.mk{width: 920px;
+     height: 145px;
+     background-color: black;
+     color: #FFF;     
+}
+.div{
+     margin: 25px;
+}
+.mjk{width: 425px;
+     height: 45px;
+     background-color: black;
+     color: #FFF;
+}
+.po{
+     width: 1650px;
+     color: #FFF;
+     text-align: center;
+
+     font-size: 18px;
+
+
+}    
+.man{
+     display: flex;
+     justify-content: center;
+     text-align: center;
+     margin: 0 auto;
+}
+.p{
+     display: flex;
+}
+.container{
+     border-radius: 4px;
+     background: #272727;
+     color: aliceblue;
+     justify-content: center;
+     text-align: center;
+     margin: 0 auto;
+     width: 1680px;
+     height: 661px;
+     flex-shrink: 0;
+}
+.hh{
+     color: #FFF;
+     font-family: Gilroy;
+     font-size: 32px;
+     font-style: normal;
+     font-weight: 700;
+     line-height: 160%; /* 51.2px */
+     text-transform: uppercase;
+}
